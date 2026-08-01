@@ -1,0 +1,17 @@
+{
+  "short_name": "TxT-S",
+  "name": "TxT-S",
+  "icons": [
+    {
+      "src": "favicon_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/https://hujftndxptbdzggxbzrxyt.streamlit.app/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "dir": "auto",
+  "lang": "en"
+}
